@@ -1,0 +1,8 @@
+C:\Users\jpaul\OneDrive\Área de Trabalho\ProvaGFT\ProvaGFT\ProvaGFT\bin\Debug\ProvaGFT.exe.config
+C:\Users\jpaul\OneDrive\Área de Trabalho\ProvaGFT\ProvaGFT\ProvaGFT\bin\Debug\ProvaGFT.exe
+C:\Users\jpaul\OneDrive\Área de Trabalho\ProvaGFT\ProvaGFT\ProvaGFT\bin\Debug\ProvaGFT.pdb
+C:\Users\jpaul\OneDrive\Área de Trabalho\ProvaGFT\ProvaGFT\ProvaGFT\obj\Debug\ProvaGFT.csproj.AssemblyReference.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\ProvaGFT\ProvaGFT\ProvaGFT\obj\Debug\ProvaGFT.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\ProvaGFT\ProvaGFT\ProvaGFT\obj\Debug\ProvaGFT.csproj.CoreCompileInputs.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\ProvaGFT\ProvaGFT\ProvaGFT\obj\Debug\ProvaGFT.exe
+C:\Users\jpaul\OneDrive\Área de Trabalho\ProvaGFT\ProvaGFT\ProvaGFT\obj\Debug\ProvaGFT.pdb
